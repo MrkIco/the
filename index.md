@@ -1,4 +1,3 @@
-### It's the website of my unturned roleplay server.
-## About the server
-# Roleplay aspect
-The year is 1980. The nuclear weapon isn't ready yet but the tension between NATO and Warsawian Pact is rising because of recent event - Australia joined NATO. Future is very foggy...
+# It's the website of my unturned semi-roleplay tactical server.
+## Roadmap
+Welp, I have to begin with a roadmap. Roadmap will be ready once I actually finish doing it. I found a person that could help me with the server, especially giving that we might have to be moderators for different timezones which will work with them.
